@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site](https://kilelx.github.io/FAQ-Accordion/)
 
 ## My process
 
@@ -42,6 +41,7 @@ Users should be able to:
 - HTML5
 - CSS3
 - Adobe XD
+- Javascript
 
 ### What I learned
 
