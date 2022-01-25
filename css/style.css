@@ -15,7 +15,6 @@ p, h1, h2, h3, h4, h5, h6 {
 body {
     background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     font-family: 'Kumbh Sans', sans-serif;
-    height: 100vh;
 
     display: flex;
     flex-direction: column;
@@ -34,7 +33,7 @@ body {
     display: flex;
     flex-direction: column;
     max-width: 58rem;
-    margin: 0 1.5rem 10px;
+    margin: 120px 1.5rem 10px;
 
     background-image: url(../images/bg-pattern-mobile.svg);
     background-position-x: center;
@@ -51,7 +50,7 @@ body {
     background-position: top center;
 
     position: absolute;
-    top: -106px;
+    transform: translateY(-106px);
     width: 100%;
     height: 180px;
 }
@@ -135,6 +134,7 @@ body {
     #container {
         flex-direction: row;
         justify-content: space-between;
+        margin-top: 0;
         height: 32rem;
         width: 56rem;
 
